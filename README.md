@@ -34,6 +34,15 @@ This extension contributes the following settings:
 
 - `statusbarCommands.showErrorWhenNoCommands`: A boolean setting to show an error message when no commands are defined. Default is `true`.
 
+## Development
+
+We use [VS Code Dev Containers](https://code.visualstudio.com/docs/devcontainers/containers) to standardize our development environment. The dev container configuration files are already provided in the `.devcontainer/` folder.
+
+1. Install the **Dev Containers** extension in VS Code.
+2. Clone this repository.
+3. From the Command Palette (⇧⌘P / Ctrl+Shift+P), choose **Dev Containers: Reopen in Container**.
+4. Once inside, your dev environment is ready!
+
 ## Known Issues
 
 - No issues have been reported yet. Please report any issues you encounter via the [GitHub issues page](https://github.com/kentayamada-dev/vscode-statusbar-commands/issues).
