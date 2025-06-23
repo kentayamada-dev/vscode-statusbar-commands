@@ -34,7 +34,11 @@ This extension contributes the following settings:
 
 - `statusbarCommands.showErrorWhenNoCommands`: A boolean setting to show an error message when no commands are defined. Default is `true`.
 
-## Development
+## Contributions
+
+We love contributions from everyone - whether you’re reporting bugs, requesting features, improving docs, or sending code! Below is how to get started and contribute.
+
+### Local Development Setup
 
 We use [VS Code Dev Containers](https://code.visualstudio.com/docs/devcontainers/containers) to standardize our development environment. The dev container configuration files are already provided in the `.devcontainer/` folder.
 
