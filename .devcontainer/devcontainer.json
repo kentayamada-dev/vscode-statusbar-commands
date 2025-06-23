@@ -2,7 +2,9 @@
   "name": "${localWorkspaceFolderBasename}",
   "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
   "features": {
-    "ghcr.io/devcontainers-extra/features/pnpm:2.0.5": {}
+    "ghcr.io/devcontainers-extra/features/pnpm:2.0.5": {
+      "version": "9.15.9"
+    }
   },
   "runArgs": [
     "--hostname",

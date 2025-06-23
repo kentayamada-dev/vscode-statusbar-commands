@@ -29,7 +29,7 @@
   ],
   "engines": {
     "vscode": "^1.71.0",
-    "pnpm": "10.11.0",
+    "pnpm": "9.15.9",
     "node": "22.16.0",
     "npm": "please-use-pnpm"
   },
