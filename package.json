@@ -29,8 +29,8 @@
   ],
   "engines": {
     "vscode": "^1.71.0",
-    "pnpm": "9.9.0",
-    "node": "22.7.0",
+    "pnpm": "10.11.0",
+    "node": "22.16.0",
     "npm": "please-use-pnpm"
   },
   "activationEvents": [
