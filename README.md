@@ -29,6 +29,7 @@ This extension contributes the following settings:
   - `command`: The ID of the VSCode command to run when the status bar item is clicked.
   - `tooltipText`: (Optional) The text to display as a tooltip when hovering over the status bar item.
   - `color`: (Optional) The color of the status bar item text (e.g., `#ff0000`, `red`). Accepts any valid CSS color value.
+  - `args` (Optional) An array of arguments to pass to the command when it is executed.
 
 - `statusbarCommands.alignment`: Controls the alignment of the status bar commands (either `Left` or `Right`). Default is `Right`.
 

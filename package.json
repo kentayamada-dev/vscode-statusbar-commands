@@ -1,7 +1,7 @@
 {
   "name": "vscode-statusbar-commands",
   "displayName": "VSCode Statusbar Commands",
-  "version": "2.0.3",
+  "version": "2.1.0",
   "description": "This VSCode extension allows you to customize your VSCode status bar by adding quick-access commands with user-defined icons and tooltips. Easily configure and manage commands to streamline your workflow, all directly from your status bar.",
   "main": "./dist/extension.js",
   "author": {
@@ -61,6 +61,11 @@
               "color": {
                 "markdownDescription": "The color of the status bar text (e.g., `#ff0000`, `red`). Accepts any valid CSS color value.",
                 "type": "string"
+              },
+              "args": {
+                "type": "array",
+                "markdownDescription": "Arguments to pass to the command",
+                "items": {}
               }
             },
             "required": [

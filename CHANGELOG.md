@@ -1,5 +1,11 @@
 ### Changelog
 
+## [2.1.0] - 2025-06-23
+
+### Added
+
+- **Command Arguments**: Support for an optional `args` array for each command.
+
 ## [2.0.3] - 2024-09-19
 
 ### Improved
