@@ -100,7 +100,7 @@
     "package": "pnpm check-types && node esbuild.js --production",
     "vscode:prepublish": "pnpm package",
     "vsce-publish": "vsce publish",
-    "prettier": "prettier . --write --cache --cache-strategy metadata"
+    "prettier": "prettier . --write"
   },
   "devDependencies": {
     "@types/node": "22.5.2",

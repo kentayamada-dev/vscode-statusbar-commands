@@ -24,7 +24,6 @@ This extension does not have any additional dependencies. It requires Visual Stu
 This extension contributes the following settings:
 
 - `statusbarCommands.commands`: An array of objects representing commands to add to the status bar. Each command includes:
-
   - `statusBarText`: The text displayed in the status bar, and users can using the `$(star)` syntax to display icons from the [VS Code icon set](https://code.visualstudio.com/api/references/icons-in-labels#icon-listing).
   - `command`: The ID of the VSCode command to run when the status bar item is clicked.
   - `tooltipText`: (Optional) The text to display as a tooltip when hovering over the status bar item.

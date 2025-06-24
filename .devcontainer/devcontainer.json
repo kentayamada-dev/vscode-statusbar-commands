@@ -16,10 +16,10 @@
   ],
   "customizations": {
     "vscode": {
-      "extensions": [
-        "kentayamada.vscode-statusbar-commands",
-        "EditorConfig.EditorConfig"
-      ]
+      "settings": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "extensions": ["kentayamada.vscode-statusbar-commands", "esbenp.prettier-vscode"]
     }
   }
 }
