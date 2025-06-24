@@ -9,6 +9,7 @@ assets/*
 .devcontainer/*
 esbuild.js
 .prettierignore
+.pnpm-store
 
 # Keep
 !dist/extension.js
